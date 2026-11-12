@@ -1,0 +1,10 @@
+{
+  "description": "Enables students to safely and anonymously report school violence while accessing support, resources, and community updates in a trusted environment.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
